@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+
+body
+{
+    background: crimson;
+}
+
+h1
+{
+    background-color: crimson;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-family: Reenie Beanie, cursive;
+    box-shadow: black -5px 5px 10px;
+    color: black;
+}
+
+#DJPort_Label
+{
+    font-size: 95px;
+}
+
+.SongName
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: black;
+    color: crimson;
+    border-radius: 10px;
+}
